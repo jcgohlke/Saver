@@ -15,6 +15,7 @@
 		F381529826364B5B00BE5EF4 /* Goal.swift in Sources */ = {isa = PBXBuildFile; fileRef = F381529726364B5B00BE5EF4 /* Goal.swift */; };
 		F381529B26364C9F00BE5EF4 /* GoalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F381529A26364C9F00BE5EF4 /* GoalView.swift */; };
 		F381529E26364F6400BE5EF4 /* GoalsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F381529D26364F6400BE5EF4 /* GoalsView.swift */; };
+		F3A4E5532636F9F800688626 /* AddGoalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3A4E5522636F9F800688626 /* AddGoalView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		F381529726364B5B00BE5EF4 /* Goal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Goal.swift; sourceTree = "<group>"; };
 		F381529A26364C9F00BE5EF4 /* GoalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoalView.swift; sourceTree = "<group>"; };
 		F381529D26364F6400BE5EF4 /* GoalsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoalsView.swift; sourceTree = "<group>"; };
+		F3A4E5522636F9F800688626 /* AddGoalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddGoalView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				F381528526364ABE00BE5EF4 /* ContentView.swift */,
 				F381529726364B5B00BE5EF4 /* Goal.swift */,
 				F381529A26364C9F00BE5EF4 /* GoalView.swift */,
+				F3A4E5522636F9F800688626 /* AddGoalView.swift */,
 				F381529D26364F6400BE5EF4 /* GoalsView.swift */,
 				F381528726364ABF00BE5EF4 /* Assets.xcassets */,
 				F381528C26364ABF00BE5EF4 /* Info.plist */,
@@ -158,6 +161,7 @@
 				F381528626364ABE00BE5EF4 /* ContentView.swift in Sources */,
 				F381529E26364F6400BE5EF4 /* GoalsView.swift in Sources */,
 				F381529826364B5B00BE5EF4 /* Goal.swift in Sources */,
+				F3A4E5532636F9F800688626 /* AddGoalView.swift in Sources */,
 				F381528426364ABE00BE5EF4 /* SaverApp.swift in Sources */,
 				F381529B26364C9F00BE5EF4 /* GoalView.swift in Sources */,
 			);
